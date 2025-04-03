@@ -1,0 +1,6 @@
+showdown_3/
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+.DS_Storeshowdown_3/
