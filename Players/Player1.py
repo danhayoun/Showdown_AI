@@ -12,6 +12,8 @@ import pandas as pd
 from gymnasium.spaces import Space, Box
 from poke_env.player import Player
 
+
+############# Embedding1, gen8randombattle player#################
 ################## Données nécessaires, table des types ########################################################################
 type_list = [
     "normal", "fire", "water", "electric", "grass", "ice", "fighting",
