@@ -16,3 +16,4 @@ __pycache__/
 Notebook/.DS_Store
 
 .gitignore
+**/.DS_Store
